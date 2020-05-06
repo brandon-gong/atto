@@ -1,4 +1,4 @@
 <p align="center">
-  <img width="520" height="200" src="atto.png">
+  <img width="260" height="100" src="atto.png">
 </p>
 
