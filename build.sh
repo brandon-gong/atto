@@ -1,0 +1,1 @@
+g++ -Wall -O2 -I/usr/local/include -D_THREAD_SAFE -D_REENTRANT -D_FILE_OFFSET_BITS=64 -D_LARGEFILE_SOURCE -D_LARGEFILE64_SOURCE -o 'main' 'main.cpp' /usr/local/lib/libfltk.a -lm -lX11 -lXext -lpthread -lXinerama -lXfixes -lXcursor -lXft -lXrender -lfontconfig -ldl
