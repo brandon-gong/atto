@@ -3,7 +3,7 @@
   <img width="260" height="100" src="https://raw.githubusercontent.com/brandon-gong/atto/master/atto.png">
 </p>
 <br>
-Atto is a desktop application for browsing the web with an extremely poor connection.  To do so, Atto strips away all CSS, JavaScript, custom fonts, etc. from a website and displays the website content in an extremely minimal Markdown format in plain, simple, legible text.  
+Atto is a desktop application for browsing the web with an extremely poor connection.  To do so, Atto strips away all CSS, JavaScript, custom fonts, etc. from a website and displays the website content in an extremely minimal Markdown format in plain, simple, legible text. I avoid the term "web browser" because it lacks many key features of modern browsers.  It doesn't do colors, layouts, fonts, margins, animations, or anything like that. 
 
 Additionally, Atto itself is built to be downloadable under extremely poor connection, and aims to keep as small of a footprint as possible by leaving out unnecessary features such as tabs, browsing history, etc. and focusing purely on the quality and efficiency of the key features that are included.  Atto is written in C++, meaning highly optimized and compact software without having to download any bulky runtimes such as Python or Java.
 
